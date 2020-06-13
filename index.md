@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# Minbo Ma
+Ph.D. Student
+**Cloud Computer Intelligent Technology Lab,
+Department of Information Science and Technology，
+Southwest Jiaotong University**, Chengdu, China 
 
-You can use the [editor on GitHub](https://github.com/mb-Ma/maminbo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# CONTACT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
