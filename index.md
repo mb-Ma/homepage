@@ -1,7 +1,7 @@
 # Minbo Ma
 Ph.D. Student
-**Cloud Computer Intelligent Technology Lab,
-Department of Information Science and Technology，
+**Cloud Computer Intelligent Technology Lab, \\
+Department of Information Science and Technology，\\
 Southwest Jiaotong University**, Chengdu, China 
 
 # CONTACT
