@@ -5,7 +5,12 @@ Department of Information Science and Technology，<br>
 Southwest Jiaotong University**, Chengdu, China 
 
 # CONTACT
+* Email: mmb0406@qq.com
+* Github: https://github.com/mb-Ma
 
+# Research
+* Nature Language Processing
+* Time Series Forecasting
 
 ### Markdown
 
